@@ -1,0 +1,15 @@
+{
+  "name": "obsreconnector",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "obs-websocket-js": "^5.0.6"
+  }
+}
